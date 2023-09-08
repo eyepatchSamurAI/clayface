@@ -1,0 +1,1 @@
+My implementation of a basic actor model. Really just to get a feel of what it looks like.
